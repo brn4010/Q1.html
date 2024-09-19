@@ -3,26 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Lista 1 - Questão 2</title>
+    <title>Lista 1 - Questão 2</title>
     <meta name="description" content="Exercício">
     <meta name="author" content="Bruno Gabriel de Oliveira da Silva">
     <meta name="keywords" content="Curso, Programação, Experiência ">
     <style>
-        body{
+        body {
             background-color: #9d9da1;
             font-family: Arial, sans-serif;
             font-size: 100%;
             text-align: center;
+            position: relative;
+            padding-bottom: 50px;
+        }
+        .referencia {
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
         }
     </style>
 </head>
 <body>
     <h1>A Coderhouse é uma plataforma digital com a maior comunidade de aprendizagem da América Latina que conta com mais de
          350.000 estudantes. Oferecemos cursos online e ao vivo nas áreas de Programação, Produto, Marketing, Design e Dados.
-          As aulas acontecem ao vivo em uma plataforma virtual, na qual todos os estudantes também podem acessar as gravações
+         As aulas acontecem ao vivo em uma plataforma virtual, na qual todos os estudantes também podem acessar as gravações
          e conteúdos adicionais gratuitos.
-         <br><br>
+    </h1>
+    <div class="referencia">
         Referência: <a href="https://www.linkedin.com/company/coderhouse-brasil/about/" target="_blank">https://www.linkedin.com/company/coderhouse-brasil/about/</a>
-    </h3>
+    </div>
 </body>
-</html>  
+</html>
