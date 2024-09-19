@@ -12,9 +12,6 @@
             font-size: 100%;
             text-align: center;
         }
-        a:hover {
-                color: rgb(240, 240, 240);
-        }
         </style>
 </head>
 <body>
@@ -31,6 +28,6 @@
          com desertos, planícies, florestas e montanhas que abrigam uma grande variedade de espécies. <br><br>
         Referência: <a href="https://pt.wikipedia.org/wiki/Estados_Unidos" target="_blank">https://pt.wikipedia.org/wiki/Isl%C3%A2ndia</a>
     </h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Viajar_a_Estados_Unidos.jpg" alt="Foto dos Estados Unidos" width="900" height="580">
+   
 </body>
 <html>
