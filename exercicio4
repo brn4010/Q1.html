@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 4</title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            text-align: center;
+            min-height: 10vh;
+        }
+        .caixa{
+            padding: 20px; 
+            border: 7px solid #0f0e0f; 
+            border-radius: 10px;
+            margin: 50px; 
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="caixa">
+        <h1>O Que significa semântica? <br>
+            Por que isso é tão importante em HTML5? </h1>
+    </div>
+    <div class="corpo">
+    <h2>
+        Semântica diz respeito ao significado de uma parte específica do texto.
+        No HTML5, ela está relacionada ao tipo de conteúdo e à criação de seções que agrupam 
+        esse conteúdo conforme sua função no documento que seriam as tags, visando facilitar a compreensão, a escrita e a organização.
+    </h2>
+    </div>
+</body>
+</html>
