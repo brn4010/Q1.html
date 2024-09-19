@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista 1 - Questão 2</title>
-<meta name="keywords" content="Curso, Programação, Experiência ">
+        <title>Lista 1 - Questão 2</title>
     <meta name="description" content="Exercício">
     <meta name="author" content="Bruno Gabriel de Oliveira da Silva">
+    <meta name="keywords" content="Curso, Programação, Experiência ">
     <style>
         body{
-            background-color: rgb(157, 157, 161);
-            color:rgb(8, 8, 8);
+            background-color: #9d9da1;
             font-family: Arial, sans-serif;
             font-size: 100%;
             text-align: center;
@@ -25,6 +24,5 @@
          <br><br>
         Referência: <a href="https://www.linkedin.com/company/coderhouse-brasil/about/" target="_blank">https://www.linkedin.com/company/coderhouse-brasil/about/</a>
     </h3>
-    <img src=https://yt3.googleusercontent.com/ue2U7-66Ozy-OPm8UbmryPsPSrCEnJTnmgNblbu9q_j7tn0a8U7752A5ZFgYmgq1LHplj0xG=s160-c-k-c0x00ffffff-no-rj width="600" height="580">
 </body>
-</html>
+</html>  
